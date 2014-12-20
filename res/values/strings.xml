@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KnowBalanceEasy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="balance">Balance</string>
+    <string name="data_plan">Your DataPlan</string>
+    <string name="network_prompt">Select a network</string>
+    <string name="submit">Submit</string>
+    <string name="select_network">Select a Network</string>
+    <string name="show_balance">Show Balance</string>
+    <string name="call_plan_details">Your Tariff Plan Details</string>
+    <string name="special_offers">Special Offers</string>
+    <string name="data_plan_details">Your Data Plan Details</string>
+    <string name="data_balance">Your Data Balance</string>
+    <string name="activate_3g">Activate 3G Plan</string>
+    <string name="activate_2g">Activate 2G Plan</string>
+    <string name="last_3charges">Last 3 Calls/SMS/Charges</string>
+    <string name="sms_plans">Sms Plans</string>
+    <string name="customer_care">Call Customer Care</string>
+    <string name="quick_recharge">Quick Recharge</string>
+    <string-array name="network_operators">
+        <item >Vodafone</item>
+        <item >Airtel</item>
+        <item >Uninor</item>
+        <item >Tata Docomo</item>
+        <item >Idea</item>
+    </string-array>
+</resources>

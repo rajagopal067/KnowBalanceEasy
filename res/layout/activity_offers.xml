@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:padding="10dp"
+    >
+    <Button 
+        android:id="@+id/balanceView" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/balance"
+        android:textAlignment="center"
+        android:textColor="@color/White"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        />
+	
+	<Button 
+        android:id="@+id/tariffPlanView" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/call_plan_details"
+        android:textAlignment="center"
+        android:textColor="@color/White"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        />
+	
+	<Button 
+        android:id="@+id/offersView" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/special_offers"
+        android:textAlignment="center"
+        android:textColor="@color/White"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        />
+	
+	<Button 
+        android:id="@+id/dataPlanView" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/data_plan"
+        android:textAlignment="center"
+        android:textColor="@color/White"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        />
+
+	
+		<Button 
+        android:id="@+id/dataBalanceView" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/data_balance"
+        android:textAlignment="center"
+        android:textColor="@color/White"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        />
+		
+		<Button 
+        android:id="@+id/ThreegPlanView" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/activate_3g"
+        android:textAlignment="center"
+        android:textColor="@color/White"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        />
+		
+		<Button 
+        android:id="@+id/TwogPlanView" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/activate_2g"
+        android:textAlignment="center"
+        android:textColor="@color/White"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        />
+		
+		<Button 
+        android:id="@+id/last_3Charges" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/last_3charges"
+        android:textAlignment="center"
+        android:textColor="@color/White"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        />
+		
+		<Button 
+        android:id="@+id/customerCare" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/customer_care"
+        android:textAlignment="center"
+        android:textColor="@color/White"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        />
+		
+		<Button 
+        android:id="@+id/quickRecharge" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/quick_recharge"
+        android:textAlignment="center"
+        android:textColor="@color/White"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        />
+		
+		
+
+</LinearLayout>
+    
+    
+</ScrollView>
